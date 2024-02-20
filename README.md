@@ -2,7 +2,7 @@
 
 ## Sobre o projeto: :page_facing_up:
 
-Projeto feito para aplicar conhecimento.
+Projeto feito para aplicar conhecimentos.
 Tecnologias utilizadas: HTML, CSS e JavaScript.
 
 
